@@ -1,16 +1,28 @@
-# animated_fab_menu
+# 🚀 Animated FAB Menu
 
-A new Flutter project.
+An elegant Flutter project showcasing an **Animated Floating Action Button (FAB) Menu** for mobile applications.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Preview
 
-A few resources to get you started if this is your first Flutter project:
+Check out the animation in action:
+
+![Animated FAB Menu Demo](https://github.com/aminamin13/animated_fab_menu/blob/main/untitled.gif)
+
+---
+
+## 📝 Getting Started
+
+This project serves as a starting point for building animated FAB menus in Flutter apps.
+
+A few resources to help you get started with Flutter:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For additional help, view the
+[official Flutter documentation](https://docs.flutter.dev/), offering tutorials, examples, and a comprehensive API reference.
+
+---
+
