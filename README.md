@@ -8,8 +8,9 @@ An elegant Flutter project showcasing an **Animated Floating Action Button (FAB)
 
 Check out the animation in action:
 
-![Animated FAB Menu Demo](https://github.com/aminamin13/animated_fab_menu/blob/main/untitled.gif)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aminamin13/animated_fab_menu/main/untitled.gif" width="300"/>
+</p>
 ---
 
 ## 📝 Getting Started
